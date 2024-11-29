@@ -1,0 +1,25 @@
+/* mobile */
+
+@media screen and (max-width: 576px) {
+    .carousel-caption {
+        margin-top: -60px;
+    }
+
+    .carousel-item img {
+        height: 280px;
+    }
+}
+
+.tokenfield .token {
+    margin: -1px 3px 1px 1px;
+    height: 25px;
+    color: black;
+    line-height: 22px;
+    border: none;
+    background-color: rgb(177, 177, 177);
+}
+
+.tokenfield .token a {
+    color: red;
+    text-decoration: none;
+}
